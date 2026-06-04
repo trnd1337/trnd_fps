@@ -49,40 +49,40 @@ Use the Chris Titus Tech (CTT) Toolbox—an All-in-One Windows Tweaker—and O&O
 3. Select the **Standard** button for an easier initial baseline.
 4. Check/tick the following additional options:
    * **Hibernation** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Microsoft Store Recommended Search Results** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Start Menu Previous Layout** $
-ightarrow$ `Enable`
+rightarrow$ `Enable`
    * **Widgets** $
-ightarrow$ `Remove (!!!)`
+rightarrow$ `Remove (!!!)`
 5. Navigate to **Advanced Tweaks** and configure:
    * **Background Apps** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Brave Browser** $
-ightarrow$ `Debloat` *(if you use the Brave browser)*
+rightarrow$ `Debloat` *(if you use the Brave browser)*
    * **File Explorer Home and Gallery** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Fullscreen Optimizations** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Microsoft Edge** $
-ightarrow$ `Debloat`
+rightarrow$ `Debloat`
    * **Microsoft OneDrive** $
-ightarrow$ `Remove`
+rightarrow$ `Remove`
    * **Razer Software Auto-Install** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Right-Click Menu Previous Layout** $
-ightarrow$ `Enable`
+rightarrow$ `Enable`
    * **Storage Sense** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Teredo** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Visual Effects** $
-ightarrow$ `Set to best Performance`
+rightarrow$ `Set to best Performance`
    * **Windows AI** $
-ightarrow$ `Disable`
+rightarrow$ `Disable`
    * **Xbox and Gaming Components** $
-ightarrow$ `Remove`
+rightarrow$ `Remove`
 
 ### Part B: O&O ShutUp10++ Privacy Configuration
 6. Directly after configuring CTT, find and click: **O&O ShutUp10++ - Run**.
