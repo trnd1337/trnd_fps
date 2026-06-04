@@ -48,41 +48,41 @@ Use the Chris Titus Tech (CTT) Toolbox—an All-in-One Windows Tweaker—and O&O
 2. Click the **Tweaks** button.
 3. Select the **Standard** button for an easier initial baseline.
 4. Check/tick the following additional options:
-   * **Hibernation** $
-rightarrow$ `Disable`
-   * **Microsoft Store Recommended Search Results** $
-rightarrow$ `Disable`
-   * **Start Menu Previous Layout** $
-rightarrow$ `Enable`
-   * **Widgets** $
-rightarrow$ `Remove (!!!)`
+   * **Hibernation** 
+ `Disable`
+   * **Microsoft Store Recommended Search Results** 
+ `Disable`
+   * **Start Menu Previous Layout** 
+ `Enable`
+   * **Widgets** 
+ `Remove (!!!)`
 5. Navigate to **Advanced Tweaks** and configure:
-   * **Background Apps** $
-rightarrow$ `Disable`
-   * **Brave Browser** $
-rightarrow$ `Debloat` *(if you use the Brave browser)*
-   * **File Explorer Home and Gallery** $
-rightarrow$ `Disable`
-   * **Fullscreen Optimizations** $
-rightarrow$ `Disable`
-   * **Microsoft Edge** $
-rightarrow$ `Debloat`
-   * **Microsoft OneDrive** $
-rightarrow$ `Remove`
-   * **Razer Software Auto-Install** $
-rightarrow$ `Disable`
-   * **Right-Click Menu Previous Layout** $
-rightarrow$ `Enable`
-   * **Storage Sense** $
-rightarrow$ `Disable`
-   * **Teredo** $
-rightarrow$ `Disable`
-   * **Visual Effects** $
-rightarrow$ `Set to best Performance`
-   * **Windows AI** $
-rightarrow$ `Disable`
-   * **Xbox and Gaming Components** $
-rightarrow$ `Remove`
+   * **Background Apps** 
+ `Disable`
+   * **Brave Browser** 
+ `Debloat` *(if you use the Brave browser)*
+   * **File Explorer Home and Gallery** 
+ `Disable`
+   * **Fullscreen Optimizations** 
+ `Disable`
+   * **Microsoft Edge** 
+ `Debloat`
+   * **Microsoft OneDrive** 
+ `Remove`
+   * **Razer Software Auto-Install** 
+ `Disable`
+   * **Right-Click Menu Previous Layout** 
+ `Enable`
+   * **Storage Sense** 
+ `Disable`
+   * **Teredo** 
+ `Disable`
+   * **Visual Effects** 
+ `Set to best Performance`
+   * **Windows AI** 
+ `Disable`
+   * **Xbox and Gaming Components** 
+ `Remove`
 
 ### Part B: O&O ShutUp10++ Privacy Configuration
 6. Directly after configuring CTT, find and click: **O&O ShutUp10++ - Run**.
