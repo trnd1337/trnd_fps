@@ -168,4 +168,4 @@ Fine-tune driver values directly inside the hardware profiles.
 * **Windows Updates:** If you need Windows Update services back online after finalizing your system modifications, you can safely re-enable updates using **WUB (Windows Update Blocker)**.
 * **Driver Update Policies:** While keeping drivers updated is generally best practice under normal conditions, the stripped, telemetry-free deployment built here prevents structural overhead and mitigates performance drops.
 * If u have problems, contact me on `Discord`: **n05y**
-* To see optimization benchmarks from other users, join here: **https://discord.gg/nr2SJqVH**
+* To see optimization benchmarks from other users, join here: **https://discord.gg/8fDTB5ZDsc**
